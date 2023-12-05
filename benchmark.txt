@@ -1,0 +1,29 @@
+Running dataset small...
+Time comparison:
+>test_greedy took 0.24484100140398368 miliseconds.
+>test_bb took 32.75485300036962 miliseconds.
+
+Memory comparison:
+>mem_test_greedy's memory usage: 19.828125 MiB.
+>mem_test_bb's memory usage: 19.828125 MiB.
+==================================================
+
+Running dataset medium...
+Time comparison:
+>test_greedy took 0.8712909984751604 miliseconds.
+>test_bb took 736.5341769982479 miliseconds.
+
+Memory comparison:
+>mem_test_greedy's memory usage: 19.8828125 MiB.
+>mem_test_bb's memory usage: 19.8828125 MiB.
+==================================================
+
+Running dataset large...
+Time comparison:
+>test_greedy took 14.429653001570841 miliseconds.
+>test_bb took 57978.586590001214 miliseconds.
+
+Memory comparison:
+>mem_test_greedy's memory usage: 21.4453125 MiB.
+>mem_test_bb's memory usage: 21.3359375 MiB.
+==================================================

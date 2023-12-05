@@ -1,0 +1,108 @@
+Running dataset small with 20 subsets...
+Time comparison:
+cost: $803
+>test_greedy took 0.08768300176598132 miliseconds.
+cost: $683
+>test_bb took 7.533321000664728 miliseconds.
+
+Memory comparison:
+>mem_test_greedy's memory usage: 20.8671875 MiB.
+>mem_test_bb's memory usage: 20.8671875 MiB.
+==================================================
+
+Running dataset small with 30 subsets...
+Time comparison:
+cost: $518
+>test_greedy took 0.2233949999208562 miliseconds.
+cost: $518
+>test_bb took 30.33209800196346 miliseconds.
+
+Memory comparison:
+>mem_test_greedy's memory usage: 20.875 MiB.
+>mem_test_bb's memory usage: 20.875 MiB.
+==================================================
+
+Running dataset small with 40 subsets...
+Time comparison:
+cost: $206
+>test_greedy took 0.1211950002470985 miliseconds.
+cost: $206
+>test_bb took 126.77524299942888 miliseconds.
+
+Memory comparison:
+>mem_test_greedy's memory usage: 20.88671875 MiB.
+>mem_test_bb's memory usage: 20.88671875 MiB.
+==================================================
+
+Running dataset medium with 20 subsets...
+Time comparison:
+cost: $1455
+>test_greedy took 0.5311560016707517 miliseconds.
+cost: $1109
+>test_bb took 73.01829499920132 miliseconds.
+
+Memory comparison:
+>mem_test_greedy's memory usage: 21.03125 MiB.
+>mem_test_bb's memory usage: 21.03125 MiB.
+==================================================
+
+Running dataset medium with 30 subsets...
+Time comparison:
+cost: $1732
+>test_greedy took 0.9690129991213325 miliseconds.
+cost: $1465
+>test_bb took 1104.631033998885 miliseconds.
+
+Memory comparison:
+>mem_test_greedy's memory usage: 21.1015625 MiB.
+>mem_test_bb's memory usage: 21.1015625 MiB.
+==================================================
+
+Running dataset medium with 40 subsets...
+Time comparison:
+cost: $795
+>test_greedy took 1.0277109977323562 miliseconds.
+cost: $734
+>test_bb took 980.1764109979558 miliseconds.
+
+Memory comparison:
+>mem_test_greedy's memory usage: 21.2578125 MiB.
+>mem_test_bb's memory usage: 21.2578125 MiB.
+==================================================
+
+Running dataset large with 20 subsets...
+Time comparison:
+cost: $2843
+>test_greedy took 7.607539002492558 miliseconds.
+cost: $2328
+>test_bb took 4156.300025999371 miliseconds.
+
+Memory comparison:
+>mem_test_greedy's memory usage: 22.60546875 MiB.
+>mem_test_bb's memory usage: 22.83203125 MiB.
+==================================================
+
+Running dataset large with 30 subsets...
+Time comparison:
+cost: $1653
+>test_greedy took 9.692849998828024 miliseconds.
+cost: $1653
+>test_bb took 170894.46871400287 miliseconds.
+
+Memory comparison:
+>mem_test_greedy's memory usage: 23.984375 MiB.
+>mem_test_bb's memory usage: 23.984375 MiB.
+==================================================
+
+Running dataset large with 40 subsets...
+Time comparison:
+cost: $1171
+>test_greedy took 14.515508002659772 miliseconds.
+cost: $962
+>test_bb took 88841.73845400073 miliseconds.
+
+Memory comparison:
+>mem_test_greedy's memory usage: 24.68359375 MiB.
+>mem_test_bb's memory usage: 24.68359375 MiB.
+==================================================
+
